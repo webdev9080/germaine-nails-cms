@@ -9,6 +9,8 @@ import message         from './message'
 import pedicure        from './pedicure'
 import prestation      from './prestation'
 import soinsVisage     from './soinsVisage'
+import temoignage from './temoignage'
+import faq from './faq'
 
 /**
  * Tableau exporté par Sanity : ajoute ici chaque schéma
@@ -25,4 +27,6 @@ export const schemaTypes = [
   pedicure,
   prestation,
   soinsVisage,
+  faq,
+  temoignage
 ]
