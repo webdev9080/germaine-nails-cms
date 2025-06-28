@@ -11,6 +11,8 @@ import prestation      from './prestation'
 import soinsVisage     from './soinsVisage'
 import temoignage from './temoignage'
 import faq from './faq'
+import videoGallery from './videoGallery'
+import imageGallery from './imageGallery'
 
 /**
  * Tableau exporté par Sanity : ajoute ici chaque schéma
@@ -28,5 +30,8 @@ export const schemaTypes = [
   prestation,
   soinsVisage,
   faq,
-  temoignage
+  temoignage,
+  videoGallery,
+  imageGallery
+  
 ]
