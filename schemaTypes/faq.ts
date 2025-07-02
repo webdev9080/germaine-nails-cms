@@ -14,6 +14,7 @@ export default {
       { title: 'Manucure', value: 'manucure' },
       { title: 'Pédicure', value: 'pedicure' },
       { title: 'Soins visage', value: 'soins-visage' },
+      { title: 'Partenaire', value: 'partenaire' },
     ],
   },
 },
