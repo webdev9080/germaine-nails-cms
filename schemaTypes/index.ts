@@ -15,6 +15,7 @@ import videoGallery from './videoGallery'
 import imageGallery from './imageGallery'
 import formation from './formation'
 import partenaire from './partenaire'
+import coordonnees from './coordonnees'
 
 /**
  * Tableau exporté par Sanity : ajoute ici chaque schéma
@@ -36,6 +37,7 @@ export const schemaTypes = [
   videoGallery,
   imageGallery,
   formation,
-  partenaire
+  partenaire,
+  coordonnees
   
 ]
